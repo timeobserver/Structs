@@ -9,6 +9,9 @@ public class StrutsTest extends ActionSupport {
 		System.out.println("Ö´ÐÐAction");
 		return SUCCESS;
 	}
+	public static void main(String[] args) {
+		
+	}
 	
 	
 	
